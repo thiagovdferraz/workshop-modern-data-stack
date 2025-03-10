@@ -14,9 +14,12 @@ O que é Docker?
 ```bash
 poetry add apache-airflow
 ```
+Instalar astro cli
 
 ```bash
-pull docker airflow
+winget install -e --id Astronomer.Astro
+astro dev init
+astro dev start
 ```
 
 ### Vamos instalar o dbt-core
