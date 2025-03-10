@@ -39,3 +39,5 @@ https://github.com/lvgalvao/bootcamp-aberto-aovivo
 https://docs.astronomer.io/learn/airflow-dbt-cloud
 
 https://www.cittabase.com/orchestrate-airbyte-cloud-with-airflow-seamlessly-using-airbyte-api/
+
+https://portal.airbyte.com
